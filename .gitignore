@@ -1,0 +1,14 @@
+node_modules/
+standard-json/
+artifacts/
+evidence/
+launch.json
+launch.json.*
+programmable-launch.config.json
+.launcher_state.json
+*.json.bak
+*.log
+preflight.json
+submit.json
+authorized.json
+finalized.json
